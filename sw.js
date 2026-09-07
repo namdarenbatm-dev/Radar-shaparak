@@ -1,4 +1,4 @@
-const CACHE_NAME = 'shaparak-analiz-v3';
+const CACHE_NAME = 'shaparak-analiz-v4';
 
 // فایل‌های خودِ اپ (هم‌مبدأ) که همیشه از قبل کش می‌شوند
 const CORE_ASSETS = [
